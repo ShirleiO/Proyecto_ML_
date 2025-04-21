@@ -85,8 +85,6 @@ Install the required packages using:
 ```bash
 pip install -r requirements.txt
 
----
-
 # Clone the repo
 git clone https://github.com/ShirleiO/Proyecto_ML_.git
 cd Proyecto_ML_
