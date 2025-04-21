@@ -67,6 +67,20 @@ The models were trained and tested, with performance metrics indicating the accu
 
 ---
 
+## 🛠️ Getting Started
+
+# Clone the repo
+git clone https://github.com/ShirleiO/Proyecto_ML_.git
+cd Proyecto_ML_
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the Jupyter Notebook
+jupyter notebook
+
+---
+
 ## 📦 Dependencies
 
 - Python 3.x
@@ -81,19 +95,3 @@ Install the required packages using:
 
 ```bash
 pip install -r requirements.txt
-
----
-
-## 🛠️ Getting Started
-
-# Clone the repo
-git clone https://github.com/ShirleiO/Proyecto_ML_.git
-cd Proyecto_ML_
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the Jupyter Notebook
-jupyter notebook
-
-# Open diamantes.ipynb (Spanish) or diamonds.ipynb (English) to explore the full analysis and model training process.
