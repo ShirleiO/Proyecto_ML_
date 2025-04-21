@@ -78,14 +78,14 @@ The models were trained and tested, with performance metrics indicating the accu
 - seaborn
 - jupyter
 
+## 🛠️ Getting Started
+
 Install the required packages using:
 
 ```bash
 pip install -r requirements.txt
 
 ---
-
-## 🛠️ Getting Started
 
 # Clone the repo
 git clone https://github.com/ShirleiO/Proyecto_ML_.git
